@@ -15,6 +15,7 @@ import { Component } from "@angular/core";
     `
 })
 export class ContadorComponent{
+  //string del conrador
     public titulo:string = 'Contador App';
   public numero:number=10;
   base:number=5;
